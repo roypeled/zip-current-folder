@@ -1,0 +1,24 @@
+{
+  "name": "zip-current-folder",
+  "version": "0.0.1",
+  "description": "zip-current-folder",
+  "main": "zip-folder.js",
+  "keywords": [],
+  "author": {
+    "name": "Roy Peled",
+    "email": "royp@folloze.com"
+  },
+  "homepage": "https://github.com/roypeled/zip-current-folder",
+  "bugs": "https://github.com/roypeled/zip-current-folder/issues",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:roypeled/zip-current-folder.git"
+  },
+  "license": "MIT",
+  "bin": {
+    "zip-current-folder" : "zip-folder.js"
+  },
+  "dependencies": {
+    "archiver": "0.15.1"
+  }
+}
